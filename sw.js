@@ -1,7 +1,7 @@
 // Service Worker: macht die App offline nutzbar.
 // Bei Änderungen an den Dateien die Versionsnummer erhöhen (z. B. v2),
 // damit iPads die neue Version laden.
-const CACHE = 'sitzplan-v7';
+const CACHE = 'sitzplan-v8';
 const ASSETS = [
   './',
   './index.html',
